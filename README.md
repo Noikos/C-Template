@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # c_files_template
 Templates for C programming language source (.c) and header (.h) files
 
@@ -6,3 +7,7 @@ Go to "Window -> Preferences -> C/C++ -> Code Style -> Code Templates -> Files -
 For the C Header File copy the template.h file in the Pattern section.
 
 When you create a new file for a project, choose your own template.
+=======
+# C-Template
+Template for c header and source files
+>>>>>>> b87f192fec5315cdabfe6f4f65a357ce9d21d6bb
